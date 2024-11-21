@@ -8,6 +8,11 @@ We demonstrate these methods using:
 - **DDIM latent vectors** of fluid datasets for the principal curve approach.  
 - **E-Field datasets** of responders and non-responders for the KDE approach.
 
+### Dataset
+The datasets used in these analyses can be downloaded from the following link:  
+[https://wcm.box.com/s/tlul4yndcbluohc9gcmilk6pn6kcoldw](https://wcm.box.com/s/tlul4yndcbluohc9gcmilk6pn6kcoldw)
+
+
 ## Notebooks
 
 ### 1. **Embedding-and-moving-along-principal-curve.ipynb**
