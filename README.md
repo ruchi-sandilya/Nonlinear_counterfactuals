@@ -1,5 +1,7 @@
 # Nonlinear counterfactual generation
-This repository contains Jupyter notebooks focused on data analysis techniques, including embedding, Kernel Density Estimation (KDE), and movement along principal curves. These notebooks demonstrate advanced methods for dimensionality reduction, data embedding, and exploring underlying data structures.
+This repository contains Jupyter notebooks focused on nonlinear counterfactual generation using two approaches: Embedding and moving along a principal curve and Embedding and kernel density estimation (KDE). We demonstrate the method using fluid datasets (for principal curve approach) and E-Field datasets of responders and non-responders patient for KDE appoach.
+
+, including embedding, Kernel Density Estimation (KDE), and movement along principal curves. These notebooks demonstrate advanced methods for dimensionality reduction, data embedding, and exploring underlying data structures.
 
 ## Notebooks
 
