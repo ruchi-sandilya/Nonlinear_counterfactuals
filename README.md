@@ -12,7 +12,7 @@ We demonstrate these methods using:
 
 ### 1. **Embedding-and-moving-along-principal-curve.ipynb**
    - **Purpose**: 
-     - Embeds DDIM latent data of dimension \(4 \times 32 \times 32\) into 2D space using CEBRA, which approximately preserves neighbor distances.
+     - Embeds DDIM latent data of dimension ($4 \times 32 \times 32$) into 2D space using CEBRA, which approximately preserves neighbor distances.
      - Fits an elastic principal curve to the embedded DDIM latent vectors.
      - Generates counterfactuals by traversing along the estimated principal curve and modifying latent vectors.
    - **Key Features**:
